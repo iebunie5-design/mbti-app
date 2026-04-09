@@ -1,5 +1,3 @@
-# 수정
-crewai
-crewai-tools
-google-generativeai
 streamlit
+crewai
+google-generativeai
