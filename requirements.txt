@@ -1,4 +1,5 @@
+# 수정
 crewai
 crewai-tools
-crewai[google-genai]
+google-generativeai
 streamlit
